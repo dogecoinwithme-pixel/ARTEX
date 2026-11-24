@@ -66,3 +66,8 @@ posture-runs/
 
 # benchmark runner output (one dir per run)
 benchmark-results/
+
+# local model weights (GGUF stays on disk; profiles are committed)
+models/**/*.gguf
+models/**/*.aria2
+models/**/download.log

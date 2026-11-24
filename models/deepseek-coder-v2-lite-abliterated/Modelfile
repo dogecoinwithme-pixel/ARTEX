@@ -1,0 +1,3 @@
+FROM /home/edslawn/models/deepseek-coder-v2-lite-abliterated/DeepSeek-Coder-V2-Lite-Instruct-abliterated.Q4_K_M.gguf
+PARAMETER num_ctx 8192
+PARAMETER temperature 0.2

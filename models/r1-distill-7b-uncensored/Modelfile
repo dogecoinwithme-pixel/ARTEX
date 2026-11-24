@@ -1,0 +1,3 @@
+FROM /home/edslawn/models/r1-distill-7b-uncensored/DeepSeek-R1-Distill-Qwen-7B-Uncensored.Q4_K_M.gguf
+PARAMETER num_ctx 8192
+PARAMETER temperature 0.6
