@@ -1,0 +1,12 @@
+[
+  {"kind": "domain", "value": "*.cloud.coveo.com"},
+  {"kind": "domain", "value": "platform.cloud.coveo.com"},
+  {"kind": "domain", "value": "analytics.cloud.coveo.com"},
+  {"kind": "domain", "value": "knowledge.cloud.coveo.com"},
+  {"kind": "domain", "value": "commerce.cloud.coveo.com"},
+  {"kind": "domain", "value": "static.cloud.coveo.com"},
+  {"kind": "domain", "value": "docs.coveo.com"},
+  {"kind": "url", "value": "https://github.com/coveo"},
+  {"kind": "url", "value": "https://github.com/coveooss"},
+  {"kind": "url", "value": "https://github.com/coveord"}
+]
